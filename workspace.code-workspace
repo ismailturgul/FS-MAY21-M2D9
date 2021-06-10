@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "..\\..\\..\\..\\Desktop\\assets"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "FS-MAY21-M2D9"
+  }
+}
